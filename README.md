@@ -84,6 +84,7 @@ This project is created to:
 ## 👨‍💻 Author
 
 **Gaurav Pandey**
+**Aditya Ojha**
 
 ---
 
